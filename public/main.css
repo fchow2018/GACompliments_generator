@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+}
+h1 {
+  text-transform: capitalize;
+  color: #fff;
+  font-family: Circular, Helvetica, Arial, sans-serif;
+  text-align: center;
+  margin-top: 1em;
+  font-size: 4em;
+}
+#ga-logo {
+  display: block;
+  margin: auto;
+  height: 20em;
+}
+button {
+  text-transform: capitalize;
+  display: block;
+  margin: auto;
+  text-align: center;
+  margin-top: 3em;
+  margin-bottom: 3em;
+  padding: 0.7em 1.5em;
+  letter-spacing: 0.2em;
+  font-size: 1.1em;
+  font-family: Circular, Helvetica, Arial, sans-serif;
+}
